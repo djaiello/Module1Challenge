@@ -21,6 +21,8 @@
     
     In addition, the pivot table results were graphically represented in a line graph showing the # of theater outcomes (successful, failed, or canceled) for each category based upon the launch date month, as seen below:
 
+![image](https://user-images.githubusercontent.com/114360511/195754257-8c2c0634-d8a5-46cb-847a-67d20dbf4a7d.png)
+
 
 ### Analysis of "Play" Outcomes Based on Goals
     To analyze the crowdfunding data for outcomes based on the campaigns financial goals, a pivot table (wkst:Outcomes Based on Goals) was created to summarize the outcomes of all "Play" kickstarters based upon the the amount of money the campaign set as their goal (See Kickstarter_Challenge.xlsx link below).  
