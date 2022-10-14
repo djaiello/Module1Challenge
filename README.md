@@ -17,7 +17,7 @@
 ## Analysis and Challenges
 
 ### Analysis of "Theater" Outcomes Based on Launch Date
-    To analyze the crowdfunding data for outcomes based on the campaigns launch date, a pivot table (wkst:Theater Outcomes by Launch Date) was created to summarize the outcomes of all "Theater" kickstarters based upon the month that the campaign was launched ([Kickstarter_Challenge.xlsx](https://github.com/djaiello/Module1Challenge/blob/main/Kickstarter_Challenge.zip?raw=true)).  
+    To analyze the crowdfunding data for outcomes based on the campaigns launch date, a pivot table (wkst:Theater Outcomes by Launch Date) was created to summarize the outcomes of all "Theater" kickstarters based upon the month that the campaign was launched [Kickstarter_Challenge.xlsx](https://github.com/djaiello/Module1Challenge/blob/main/Kickstarter_Challenge.zip?raw=true).  
     
     In addition, the pivot table results were graphically represented in a line graph showing the # of theater outcomes (successful, failed, or canceled) for each category based upon the launch date month, as seen below:
 
