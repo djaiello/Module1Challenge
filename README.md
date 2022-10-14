@@ -57,4 +57,4 @@
     With the given dataset, one could have focused within a subcategory on relating outcome to average donation sizes, number of backers, or country of origin.  In addition rather than just basic outcome, we could have used the percent funded to dissect levels of success within the each outcome.  A graph that plotted percentage funded within the successful outcome vs. the length of the campaign might have helped establish timeframes for success.
 
 ## Links
--
+-   https://github.com/djaiello/Module1Challenge/blob/main/Kickstarter_Challenge.zip
