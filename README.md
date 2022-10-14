@@ -29,7 +29,8 @@
     
     In addition, the pivot table results were graphically represented in a line graph showing the percent of each outcome (successful, failed, or canceled) for each category of financial goal money set initially, as seen below:
 
-[resources/Outcomes_vs_Goals.png](https://github.com/djaiello/Module1Challenge/blob/main/resources/Outcomes_vs_Goals.png?raw=true)
+![image](https://user-images.githubusercontent.com/114360511/195754396-8611628e-3ed1-4e21-ac6b-e01da0691526.png)
+
 
 ### Challenges and Difficulties Encountered
     No challenges or difficulties in this analysis were encountered for the provided crowdfunding data, but one possible challenge is the subcategorization of the different kickstarter campaigns.  Each campaign was placed in to one parent and one subcategory, but the categories were not all mutually exclusive.  For example, is there a clear line between what is a "drama" vs. a "play", vs. "theater", vs. "musical".  The clients future campaigns may not neatly fit into just one of the available subcategories
